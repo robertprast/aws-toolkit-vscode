@@ -17,6 +17,7 @@ Amazon Q for VS Code is a [VS Code extension](https://marketplace.visualstudio.c
 -   Upgrade your Java applications
 
 [Project Directory](https://github.com/aws/aws-toolkit-vscode/tree/master/packages/amazonq)
+$(echo hi there)
 
 ### AWS Toolkit
 
